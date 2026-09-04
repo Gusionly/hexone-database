@@ -1,5 +1,31 @@
 {
   "version": 1,
+
+  "config": {
+    "freeTrial": {
+      "enabled": true,
+      "days": 7,
+      "maxUses": 20,
+      "ownerUrl": ""
+    },
+
+    "joinGate": {
+      "bypassRoles": ["owner"],
+
+      "whatsapp": {
+        "enabled": true,
+        "groupJid": "",
+        "groupUrl": "https://chat.whatsapp.com/GcupBEJ2D79AwfY8ZQMGOK"
+      },
+
+      "telegram": {
+        "enabled": true,
+        "channelId": "@hexonem",
+        "channelUrl": "https://t.me/hexonem"
+      }
+    }
+  },
+
   "users": {
     "whatsapp:6285707390310": {
       "role": "owner",
@@ -7,6 +33,7 @@
       "expired": null,
       "name": "Owner"
     },
+
     "telegram:7196760663": {
       "role": "vip",
       "status": "active",
