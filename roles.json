@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "users": {
+    "whatsapp:6285707390310": {
+      "role": "owner",
+      "status": "active",
+      "expired": null,
+      "name": "Owner"
+    },
+    "telegram:7196760663": {
+      "role": "vip",
+      "status": "active",
+      "expired": "2026-12-31",
+      "name": "VIP 1"
+    }
+  }
+}
