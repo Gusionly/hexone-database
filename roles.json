@@ -23,7 +23,12 @@
         "channelId": "@hexonem",
         "channelUrl": "https://t.me/hexonem"
       }
-    }
+    },
+    "whatsappNewsletter": {
+  "enabled": true,
+  "jid": "120363429888270731@newsletter",
+  "url": "https://whatsapp.com/channel/0029VbDZJQb2P59h99yyLz20"
+   }
   },
 
   "users": {
