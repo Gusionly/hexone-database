@@ -31,6 +31,12 @@
    }
   },
 
+  "verifyApi": {
+  "enabled": false,
+  "url": "",
+  "timeoutMs": 8000
+}
+
   "users": {
     "whatsapp:6282337891154": {
       "role": "owner",
