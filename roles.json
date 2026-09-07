@@ -33,7 +33,7 @@
 
   "verifyApi": {
   "enabled": false,
-  "url": "",
+  "url": "https://verify.lynzzofficial.com",
   "timeoutMs": 8000
 }
 
