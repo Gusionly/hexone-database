@@ -32,7 +32,7 @@
   },
 
   "verifyApi": {
-  "enabled": false,
+  "enabled": true,
   "url": "http://154.12.116.172:2007",
   "timeoutMs": 8000
 }
