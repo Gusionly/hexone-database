@@ -28,14 +28,13 @@
   "enabled": true,
   "jid": "120363429888270731@newsletter",
   "url": "https://whatsapp.com/channel/0029VbDZJQb2P59h99yyLz20"
-   }
-  },
-
-  "verifyApi": {
+   },
+    "verifyApi": {
   "enabled": true,
   "url": "http://154.12.116.172:2007",
   "timeoutMs": 8000
 }
+  },
 
   "users": {
     "whatsapp:6282337891154": {
