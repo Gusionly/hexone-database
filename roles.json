@@ -45,10 +45,10 @@
     },
 
     "telegram:7196760663": {
-      "role": "vip",
+      "role": "owner",
       "status": "active",
-      "expired": "2026-12-31",
-      "name": "VIP 1"
+      "expired": null,
+      "name": "Owner"
     }
   }
 }
