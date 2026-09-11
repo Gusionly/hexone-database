@@ -1,41 +1,53 @@
 {
   "version": 1,
-
   "config": {
     "freeTrial": {
       "enabled": true,
-      "days": 7,
+      "days": 1,
       "maxUses": 20,
       "ownerUrl": ""
     },
-
     "joinGate": {
-      "bypassRoles": ["owner"],
-
+      "bypassRoles": [
+        "owner"
+      ],
       "whatsapp": {
         "enabled": true,
         "groupJid": "",
-        "groupUrl": "https://chat.whatsapp.com/GcupBEJ2D79AwfY8ZQMGOK"
+        "groupUrl": "https://chat.whatsapp.com/BrbbWFKaU2uDUAznaUydwJ"
       },
-
       "telegram": {
         "enabled": true,
-        "channelId": "@hexonem",
-        "channelUrl": "https://t.me/hexonem"
+        "channelId": "@Xypher_st2",
+        "channelUrl": "https://t.me/Xypher_st2"
       }
     },
-    "whatsappNewsletter": {
-  "enabled": true,
-  "jid": "120363429888270731@newsletter",
-  "url": "https://whatsapp.com/channel/0029VbDZJQb2P59h99yyLz20"
-   },
     "verifyApi": {
-  "enabled": true,
-  "url": "https://verify.lynzzofficial.com",
-  "timeoutMs": 8000
-}
+      "enabled": true,
+      "url": "https://verify.lynzzofficial.com",
+      "timeoutMs": 8000
+    },
+    "whatsappNewsletters": {
+      "enabled": true,
+      "channels": [
+        {
+          "name": "HEXONE",
+          "jid": "120363429888270731@newsletter",
+          "url": "https://whatsapp.com/channel/0029VbDZJQb2P59h99yyLz20"
+        },
+        {
+          "name": "HADEXV",
+          "jid": "ISI_JID_HADEXV@newsletter",
+          "url": "ISI_LINK_HADEXV"
+        },
+        {
+          "name": "SOMEONE",
+          "jid": "120363411710415299@newsletter",
+          "url": "https://chat.whatsapp.com/BrbbWFKaU2uDUAznaUydwJ"
+        }
+      ]
+    }
   },
-
   "users": {
     "whatsapp:628233789115": {
       "role": "owner",
@@ -43,7 +55,6 @@
       "expired": null,
       "name": "Owner"
     },
-
     "telegram:7196760663": {
       "role": "owner",
       "status": "active",
