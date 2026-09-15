@@ -49,13 +49,25 @@
     }
   },
   "users": {
-    "whatsapp:6282326847440": {
+    "whatsapp:6282337891154": {
       "role": "owner",
       "status": "active",
       "expired": null,
       "name": "Owner"
     },
     "telegram:8612953579": {
+      "role": "owner",
+      "status": "active",
+      "expired": null,
+      "name": "Owner"
+    },
+    "whatsapp:6282326847440": {
+      "role": "owner",
+      "status": "active",
+      "expired": null,
+      "name": "Owner"
+    },
+    "telegram:7196760663": {
       "role": "owner",
       "status": "active",
       "expired": null,
