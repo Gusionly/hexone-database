@@ -24,7 +24,7 @@
     },
     "verifyApi": {
       "enabled": true,
-      "url": "https://verify.lynzzofficial.com",
+      "url": "https://verify.lynzz.id",
       "timeoutMs": 8000
     },
     "whatsappNewsletters": {
