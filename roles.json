@@ -18,8 +18,8 @@
       },
       "telegram": {
         "enabled": true,
-        "channelId": "@infohexone",
-        "channelUrl": "https://t.me/infohexone"
+        "channelId": "@testimonihexone",
+        "channelUrl": "https://t.me/testimonihexone"
       }
     },
     "verifyApi": {
